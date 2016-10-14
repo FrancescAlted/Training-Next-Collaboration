@@ -1,6 +1,10 @@
 Training on Advanced Python for Scientists
 ==========================================
 
+:When: 17-19 October 2016
+:Where: `Institut de Física Corpuscular (Centre mixt Universitat de València / CSIC) <http://webific.ific.uv.es/web/>`_
+:Who: `Next experiment <http://next.ific.uv.es/next/>`_
+
 Day 1
 -----
 
