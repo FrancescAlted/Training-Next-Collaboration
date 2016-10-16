@@ -5,6 +5,7 @@ Training on Advanced Python for Scientists
 :Where: `Institut de Física Corpuscular (Centre mixt Universitat de València / CSIC) <http://webific.ific.uv.es/web/>`_
 :Who: `Next experiment <http://next.ific.uv.es/next/>`_
 
+
 Day 1
 -----
 
@@ -16,7 +17,7 @@ Day 1
   * Description of the scope and schedule.
   * Jupyter: merging code and data for reproducibility.
 
-* NumPy: the basic building block of every scientific application (lecture)
+* NumPy: the basic building block of every scientific application
 
   Estimated time: 1 hour
 
@@ -24,7 +25,7 @@ Day 1
 
   Break: 30 min
 
-* Introduction to SciPy: the basic toolset on top of NumPy
+* Advanced NumPy
 
   Estimated time: 1 hour
 
@@ -32,22 +33,19 @@ Day 1
 
   Lunch: 1 hour
 
-* NumPy/SciPy hands on (exercises)
+* SciPy: advanced toolset on top of NumPy
 
-  Estimated time: 1h30m
+  Estimated time: 1h
 
 ::
 
-
   Break: 30 min
 
-* Visualizing your data (with exercises)
+* Matplotlib: visualizing your data (with exercises)
 
-  Estimated time: 1h15min
+  Estimated time: 1h45min
 
   - Matplotlib
-  - Seaborn
-  - Altair
 
 * General questions on what was learned during the day
 
@@ -68,8 +66,6 @@ Day 2
 
   Estimated time: 30 min
 
-  Estimated time: 30 min
-
   - PEP 8
   - PyFlakes
   - PyLint
@@ -78,13 +74,9 @@ Day 2
 
   Break: 30 min
 
-* Unit testing (lecture)
+* Unit testing 
 
-  Estimated time: 45 min
-
-* Unit testing (exercises)
-
-  Estimated time: 45 min
+  Estimated time: 1h30m
 
 ::
 
@@ -92,12 +84,11 @@ Day 2
 
 * Optimizing Python code and linking with C/C++ (lecture)
 
-  Estimated time: 1 h
+  Estimated time: 1h15m
 
   - Numba
   - Cython
   - pybind11
-  - cffi
 
 ::
 
@@ -105,7 +96,7 @@ Day 2
 
 * Optimizing Python code and linking with C/C++ (exercises)
 
-  Estimated time: 1:45 hour
+  Estimated time: 1:30 hour
 
 * General questions on what was learned during the day
 
@@ -132,7 +123,6 @@ Day 3
 
   - pandas (tabular datasets, import from CSV, text, Excel, HDF5)
   - bcolz (compressed tabular datasets)
-  - In-memory relational databases (SQLite)
 
 ::
 
